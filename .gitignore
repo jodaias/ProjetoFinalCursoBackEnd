@@ -1,0 +1,39 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Local database
+*.db
+
+# Logs
+*.log
+
+# Sensitive configuration
+appsettings.Development.json
+appsettings.Local.json
+
+# Test results
+TestResults/
+
+# Others
+*.swp
+# SQLite auxiliary files
+*.db-shm
+*.db-wal
