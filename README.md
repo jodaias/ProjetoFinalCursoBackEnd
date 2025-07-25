@@ -40,3 +40,6 @@ Sistema de gerenciamento de Library (CRUD de autores, livros e empréstimos) des
 ---
 
 > Projeto para fins de estudo e demonstração.
+
+<img width="1179" height="911" alt="image" src="https://github.com/user-attachments/assets/174a252e-5919-474f-b5ca-a19923d1774a" />
+
